@@ -6,8 +6,7 @@ module.exports = {
   platform: "github",
   configMigration: true,
   includeForks: true,
-  dryRun: "full",
-  repositories: ["wokoman/kazuma-vps"],
+  repositories: ["wokoman/kazuma-vps", "wokoman/renovate"],
   packageRules: [
     {
       description: "lockFileMaintenance",
