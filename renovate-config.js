@@ -2,7 +2,7 @@ module.exports = {
   branchPrefix: "renovate/",
   username: "renovate",
   gitAuthor: "Renovate Bot <bot@renovateapp.com>",
-  onboarding: false,
+  onboarding: true,
   platform: "github",
   configMigration: true,
   includeForks: true,
