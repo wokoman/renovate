@@ -4,7 +4,7 @@ module.exports = {
   gitAuthor: "Renovate Bot <bot@renovateapp.com>",
   onboarding: true,
   platform: "github",
-  configMigration: true,
+  configMigration: false,
   includeForks: true,
   repositories: ["wokoman/kazuma-vps", "wokoman/renovate"],
   packageRules: [
